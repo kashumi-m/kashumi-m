@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kashumi-m
 - 👀 I’m interested in improving software engineering practices and human-AI collaboration
-- 🌱 I’m currently finishing my PhD
-- 💞️ I’m looking for research and product management postions
+- 🌱 I’m currently finishing my PhD (finishing in June, 2022)
+- 💞️ I’m looking for research and product management poistions
 - 📫 You can reach me by writing to kashumi dot m at ieee dot org
 
 <!---
